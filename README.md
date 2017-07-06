@@ -1,0 +1,1 @@
+# Euler87_PowerPrimeTriples
